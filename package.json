@@ -3,7 +3,7 @@
   "displayName": "Theme RALF",
   "description": "RALF vscode theme",
   "version": "0.0.1",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "author": "Mathias Fredriksson <mathiasfr@gmail.com> (https://mafre.github.io/)",
 	"icon":"icon.png",
   "maintainers": [
