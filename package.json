@@ -1,0 +1,34 @@
+{
+  "name": "theme-ralf",
+  "displayName": "Theme RALF",
+  "description": "RALF vscode theme",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "author": "Mathias Fredriksson <mathiasfr@gmail.com> (https://mafre.github.io/)",
+	"icon":"icon.png",
+  "maintainers": [
+    "Mathias Fredriksson"
+  ],
+  "contributors": [
+    "Mathias Fredriksson"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafre/ralf.git"
+  },
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ralf",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ralf-color-theme.json"
+      }
+    ]
+  }
+}
